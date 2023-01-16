@@ -17,6 +17,7 @@ I'm An undergraduate student majoring in Information Systems at Brawijaya Univer
   <img align="left" alt="Joviar's Discord" width="32px" src="https://raw.githubusercontent.com/Joviar27/Joviar27/main/discord.svg" />
 </a>
 <br>
+<br>
 
 ## My Statistic
 
