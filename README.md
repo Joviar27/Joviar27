@@ -24,7 +24,6 @@ I'm An undergraduate student majoring in Information Systems at Brawijaya Univer
 <p align="left">
 <a href="https://github.com/Joviar27">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joviar27&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joviar27&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </p>
 
