@@ -1,6 +1,6 @@
 # Hello there, i'm Joviar 🙌
 
-I'm An undergraduate student majoring in Information Systems at Brawijaya University, i have high interest in Mobile and Front End Programming while also having quite a lot of experience on working and leading a team through my various participation in organization, committe and activity.
+Final year Information System Undergraduate Student and Bangkit Academy 2023 Mobile Development Distinction Graduate. A committed individual to continuously improve and learn while also possess the ability to easily adapt to new environment. My field of interest lies in Android Development, Information Systems, and UI/UX Design.
 
 ## Reach Me Out ! ✨
 
