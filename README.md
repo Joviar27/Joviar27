@@ -4,13 +4,10 @@ Final year Information System Undergraduate Student and Bangkit Academy 2023 Mob
 
 ## Reach Me Out ! ✨
 
-<a href="https://www.instagram.com/jo.vi.ar/">
-  <img align="left" alt="Joviar's Instagram" width="32px" src="https://raw.githubusercontent.com/Joviar27/Joviar27/main/instagram.png" />
-</a> 
 <a href="https://www.linkedin.com/in/joyvianoktya">
   <img align="left" alt="Joviar's Linkedin" width="32px" src="https://raw.githubusercontent.com/Joviar27/Joviar27/main/linkedin.svg" />
 </a> 
-<a href="mailto: joyviar2706@gmail.com">
+<a href="mailto: joviar27@gmail.com">
   <img align="left" alt="Joviar's Email" width="32px" src="https://raw.githubusercontent.com/Joviar27/Joviar27/main/mail.png" />
 </a>
 <a href="https://discord.com/users/477452177171021824">
