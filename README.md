@@ -1,6 +1,6 @@
 # Hello there, i'm Joviar 🙌
 
-Final year Information System Undergraduate Student and Bangkit Academy 2023 Mobile Development Distinction Graduate. A committed individual to continuously improve and learn while also possess the ability to easily adapt to new environment. My field of interest lies in Android Development, Information Systems, and UI/UX Design.
+Information System Graduate and Bangkit Academy 2023 Mobile Development Distinction Graduate. A committed individual to continuously improve and learn while also possess the ability to easily adapt to new environment. My field of interest lies in Android Development, Information Systems, and UI/UX Design.
 
 ## Reach Me Out ! ✨
 
