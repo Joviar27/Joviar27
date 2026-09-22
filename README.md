@@ -1,8 +1,8 @@
-# Hello there, i'm Joviar 🙌
+## Welcome Traveler, i'm Joviar
 
 Information System Graduate and Bangkit Academy 2023 Mobile Development Distinction Graduate. Mostly an Android Developer with Java, Kotlin, and Jetpack Compose. Currently expanding to multiplatform skills with KMP + Compose Multiplatform and some Flutter.
 
-## Reach Me Out ! ✨
+### Reach me Out
 
 <a href="https://www.linkedin.com/in/joyvianoktya">
   <img align="left" alt="Joviar's Linkedin" width="32px" src="https://raw.githubusercontent.com/Joviar27/Joviar27/main/linkedin.svg" />
@@ -16,7 +16,7 @@ Information System Graduate and Bangkit Academy 2023 Mobile Development Distinct
 <br>
 <br>
 
-## My Statistic
+### My Statistic
 
 <p align="left">
 <a href="https://github.com/Joviar27">
