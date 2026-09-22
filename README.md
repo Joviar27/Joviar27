@@ -1,13 +1,13 @@
 # Hello there, i'm Joviar 🙌
 
-Information System Graduate and Bangkit Academy 2023 Mobile Development Distinction Graduate. A committed individual to continuously improve and learn while also possess the ability to easily adapt to new environment. My field of interest lies in Android Development, Information Systems, and UI/UX Design.
+Information System Graduate and Bangkit Academy 2023 Mobile Development Distinction Graduate. Mostly an Android Developer with Java, Kotlin, and Jetpack Compose. Currently expanding to multiplatform skills with KMP + Compose Multiplatform and some Flutter.
 
 ## Reach Me Out ! ✨
 
 <a href="https://www.linkedin.com/in/joyvianoktya">
   <img align="left" alt="Joviar's Linkedin" width="32px" src="https://raw.githubusercontent.com/Joviar27/Joviar27/main/linkedin.svg" />
 </a> 
-<a href="mailto: joviar27@gmail.com">
+<a href="mailto: joyvianoktya27@gmail.com">
   <img align="left" alt="Joviar's Email" width="32px" src="https://raw.githubusercontent.com/Joviar27/Joviar27/main/mail.png" />
 </a>
 <a href="https://discord.com/users/477452177171021824">
